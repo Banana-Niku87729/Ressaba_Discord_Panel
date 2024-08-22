@@ -7,7 +7,7 @@ app.secret_key = os.urandom(24)
 
 CLIENT_ID = '1253874946095185951'
 CLIENT_SECRET = 'CF_vkoepoq3ggOqVEzVFtgLD6cUPqn2L'
-REDIRECT_URI = 'http://localhost:5000/callback'
+REDIRECT_URI = 'https://banana-niku87729.github.io/login'
 DISCORD_OAUTH2_URL = "https://discord.com/api/oauth2/authorize"
 DISCORD_TOKEN_URL = "https://discord.com/api/oauth2/token"
 DISCORD_API_URL = "https://discord.com/api/users/@me"
